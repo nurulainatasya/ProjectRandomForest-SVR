@@ -1,5 +1,5 @@
 ---
-title: Analisis Prediksi Produksi Tanaman Pangan (Indonesia) dengan Model Random Forest
+title: Analisis Prediksi Produksi Palawija dengan Model Random Forest
   dan SVR
 author: "Nurul Aina Tasya"
 date: "2023-12-26"
